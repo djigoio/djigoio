@@ -1,4 +1,4 @@
-# Hey ✨, I'm Antonio Djigo
+# Hey ✨
 
 *   [My website](https://djigo.dev) 
 *   [Twitter](https://twitter.com/brownio_)
