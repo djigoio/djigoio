@@ -1,11 +1,9 @@
-# Hey ✨
+# Technical Customer Success Manager — Engineering + Product
 
 *   [My website](https://djigo.dev) 
 *   [Twitter](https://twitter.com/brownio_)
 *   [LinkedIn](https://www.linkedin.com/in/antonio-djigo/)
   
-## Technical Customer Success Manager — Engineering + Product
-
 ### Product Manager
 - Leading cross-functional teams in SEO, UX, Engineering, Marketing, and HR to whip up innovative product magic
 - Rocking product ownership and project management. Using SCRUM to turn insights and stakeholder issues into actionable strategies.
