@@ -4,13 +4,7 @@
 *   [Twitter](https://twitter.com/brownio_)
 *   [LinkedIn](https://www.linkedin.com/in/antonio-djigo/)
   
-## Software Developer & Technical Product Manager
-
-```
-I'm currently learning:
-- Natural processing languages, Deep learning, LLMs and Chatbots
-- Product Design, enhancing Product Management skills
-```
+## Technical Customer Success Manager — Engineering + Product
 
 ### Product Manager
 - Leading cross-functional teams in SEO, UX, Engineering, Marketing, and HR to whip up innovative product magic
@@ -21,9 +15,9 @@ I'm currently learning:
 - Managing and leading awesome projects with teams (HR, Marketing, SEO, Content, UX) 🚀
 - Creating new and innovative themes and plugins from scratch ⚗️
 - Implementing custom CI/CD, backups with GCP, and other cool features
-- Boosting SEO with Google Analytics and friends 📈
+- Boosting SEO with Google Analytics 📈
 - Server maintenance and deployment with multiple providers 🚀
-- Headless CMS like Strapi, Ghost, Sanity? Absolutely!
+- Headless CMS like Directus, Strapi, Ghost, Sanity...
 
 ### Front-end
 - Over 6 years of crafting magic with Vanilla JS and CSS 👌
