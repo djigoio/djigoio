@@ -4,38 +4,22 @@
 *   [Twitter](https://twitter.com/brownio_)
 *   [LinkedIn](https://www.linkedin.com/in/antonio-djigo/)
   
+### Software Engineer
+- DevOps: Docker, Terraform, CI/CD, Cloudflare, K8s.
+- Programming: JS, CSS, Ruby, Go, PHP.
+- CMS: WordPress, Directus, Drupal.
+- Web: Accessibility, Web Perf, Analytics, SEO.
+- Hosting: GCP, Siteground, Heroku, Netlify.
+
 ### Product Manager
-- Leading cross-functional teams in SEO, UX, Engineering, Marketing, and HR to whip up innovative product magic
-- Rocking product ownership and project management. Using SCRUM to turn insights and stakeholder issues into actionable strategies.
-- Deep-diving into market research, crafting strategic roadmaps, and managing the product lifecycle. Task prioritization, conflict resolution, and risk mitigation.
+- Leading cross-functional teams to create innovative products.
+- Expert in product ownership and project management using SCRUM
+- Conducting market research, crafting strategic roadmaps, and overseeing the product lifecycle.
 
-### CMS Products
-- Managing and leading awesome projects with teams (HR, Marketing, SEO, Content, UX) 🚀
-- Creating new and innovative themes and plugins from scratch ⚗️
-- Implementing custom CI/CD, backups with GCP, and other cool features
-- Boosting SEO with Google Analytics 📈
-- Server maintenance and deployment with multiple providers 🚀
-- Headless CMS like Directus, Strapi, Ghost, Sanity...
-
-### Front-end
-- Over 6 years of crafting magic with Vanilla JS and CSS 👌
-- Master of CSS Grid and Flex layout 🔧
-- jQuery lover, also rocking Vue, React, and Stimulus ➕
-- Also skilled with no-code tools like Framer, Readymag, and Webflow...
-
-### Ruby on Rails
-- Maintaining a 4-year-old project like a champ 🏗️ ,design patterns for new and old features ♻️
-- Unit testing and TDD ✅
-- Jenkins, Docker, Heroku? You bet! 🐳
-- Performance profiling and WCAG accessibility ⚡️
-
-### Web Performance
-- Reducing your LCP & TTFB like a boss, Critical CSS too 🤓
-- Lazyloading assets and third-parties? Yes, please! I know exactly what Google Core Web Vitals wants from your site 🌚
-
-### Web Infrastructure
-- Golang 🐻, Terraforming infrastructures, CI/CD wizard with Docker 🐋 and K8s ☸️ on any Git platform
-- Experienced with Cloudflare, GCP, Siteground, Heroku, and Netlify 🤷
+### Customer Success
+- Onboarding, configuration, training, best practices.
+- Coordinate technical support, manage escalations.
+- Monitor customer health metrics, up-selling initiatives
 
 
 ## Articles
